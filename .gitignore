@@ -1,0 +1,46 @@
+
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node modules (if you ever use npm for SCSS compilation)
+node_modules/
+
+
+# SCSS / CSS Files
+
+
+
+*.css.map
+.sass-cache/
+.cache/
+*.log
+
+
+
+# VS Code settings
+.vscode/
+
+# Temporary or backup files
+*.tmp
+*.bak
+
+
+.env
+.env.local
+.env.*.local
+
+
+
+
+
+
+dist/
+build/
+
+
+
+# Ignore any compiled or minified JS (optional)
+*.min.js
+*.min.css
